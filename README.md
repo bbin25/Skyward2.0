@@ -1,6 +1,6 @@
 //Skyward 2.0
 import java.util.Scanner;
-public class Main {
+public class term1projMain {
     public static void main(String args[]) {
         Scanner scan = new Scanner(System.in);
         String[] classList = new String[]{"AP Computer Science A","Physics","Computer Science", "APCSP", "PLTW Cybersecurity", "Calculus"};
