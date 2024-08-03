@@ -1,4 +1,5 @@
- import java.util.Scanner;
+//Skyward 2.0
+import java.util.Scanner;
 public class term1projMain {
     public static void main(String args[]) {
         Scanner scan = new Scanner(System.in);
