@@ -1,4 +1,6 @@
 import java.util.Scanner;
+package Student;
+import Student;
 public class term1projMain {
     public static void main(String args[]) {
         Scanner scan = new Scanner(System.in);
