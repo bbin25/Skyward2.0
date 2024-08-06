@@ -1,7 +1,7 @@
 import java.util.Scanner;
 package Student;
 import Student;
-public class term1projMain {
+public class StudentManagement {
     public static void main(String args[]) {
         Scanner scan = new Scanner(System.in);
         String[] classList = new String[]{"AP Computer Science A","Physics","Computer Science", "APCSP", "PLTW Cybersecurity", "Calculus"};
